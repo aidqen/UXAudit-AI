@@ -22,7 +22,7 @@ const faqs = [
   {
     id: 3,
     question: "When will UXEvaluator AI be available?",
-    solution: "We are currently in the development and testing phase. Sign up for early access on our website to get notified about the official launch and gain exclusive access to beta features.",
+    solution: "UX Evaluator is set to launch in April 2025. We are currently in the development and testing phase. Sign up for early access to get notified about the official launch and gain exclusive access to beta features.",
   },
   {
     id: 4,
