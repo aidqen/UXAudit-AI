@@ -38,7 +38,7 @@ const faqs = [
 
 export function FAQ() {
   return (
-    <section className="faqs flex flex-col items-center gap-[48px] md:gap-[64px] md:w-[930px] w-full max-w-full">
+    <section id="faqs" className="faqs flex flex-col items-center gap-[48px] md:gap-[64px] md:w-[930px] w-full max-w-full">
       <header className="w-full">
         <h2 className="text-white text-center text-[24px] font-bold leading-[125%] tracking-[0.48px] mb-[16px] md:mb-[20px]">
           FAQs

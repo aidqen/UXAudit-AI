@@ -1,12 +1,11 @@
 "use client";
 
 import { EmailInput } from "./EmailInput";
-import { Button } from "./ui/button";
 
 export function Hero() {
   return (
 
-      <div className="hero z-10 relative flex flex-col w-full md:w-[70%] xl:w-[40%] justify-center items-center text-center">
+      <div className="hero z-10 relative flex flex-col w-full md:w-[70%] xl:w-[50%] justify-center items-center text-center">
         <div className="relative w-max rounded-full p-[1px] bg-gradient-to-l from-[#8558C8] to-[#6884C5] mb-[20px] md:mb-[25px] shadow-[0_0_33.7px_8px_rgba(107,55,231,0.03)]">
           <div className="bg-foregroundDark rounded-full px-[20px] py-[8px]">
             <span className="text-[14px]  bg-gradient-to-l from-[#AE6DFF] to-[#83ABF9] bg-clip-text text-transparent font-medium">• Early Access Opening Soon</span>
